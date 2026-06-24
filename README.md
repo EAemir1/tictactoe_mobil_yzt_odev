@@ -77,8 +77,8 @@ Make sure you have installed:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/EAemir1/tictactoe-mobil-yzt-odev.git
-    cd tictactoe-mobil-yzt-odev
+    git clone https://github.com/EAemir1/Neon_Tic-Tac-Toe_with_Minimax_AI
+    cd Neon_Tic-Tac-Toe_with_Minimax_AI
     ```
 
 2.  **Get Package Dependencies**:
